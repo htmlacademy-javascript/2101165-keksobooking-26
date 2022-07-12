@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Дмитрий Боченков](https://up.htmlacademy.ru/javascript/26/user/2101165).
-* Наставник: Максим Прусаков.
+* Наставник: [Максим Прусаков](https://htmlacademy.ru/profile/hikikomori).
 
 ---
 
