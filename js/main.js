@@ -21,4 +21,4 @@ function getRandomFloat (min, max) {
   return Math.random() * (max - min) + min;
 }
 
-cgetRandomFloat(-0.8, 0.8);
+getRandomFloat(-0.8, 0.8);
